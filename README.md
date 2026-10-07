@@ -159,4 +159,4 @@ Place `customer_signups.csv` and `support_tickets.csv` in the same folder as the
 Built as CompTIA Data+ coursework. I used Claude as a tutor and for drafting the stakeholder report. I typed, ran and debugged the notebook myself, including the execution-order and missing-value bugs documented in my cleaning notes.
 
 **Author:** Raphael Ehis Akhigbe
-[GitHub](https://github.com/raphaelehisakhigbe-sketch) · [LinkedIn](https://www.linkedin.com/in/)
+[GitHub](https://github.com/raphaelakhigbe?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/raphael-akhigbe-eointrade/)
